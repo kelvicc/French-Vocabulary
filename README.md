@@ -1,10 +1,8 @@
-# DUO Français 3.0 — Web Application
-
 🇫🇷 **フランス語基本単語・例文学習 Web アプリケーション**  
-デュオ・フランセ 全45セクション（560例文・見出し語2,223語・総合語彙11,515項目・日常生活語彙集・高音質ニューラル音声）をスマートフォンおよびPCブラウザで快適に学習できるWebアプリです。
+全45セクション（560例文・見出し語2,223語・総合語彙11,515項目・日常生活語彙集・高音質ニューラル音声）をスマートフォンおよびPCブラウザで快適に学習できるWebアプリです。
 
 ## 🌐 GitHub Pages 公開 URL
-**[https://kelvicc.github.io/French-Vocabulary/](https://kelvicc.github.io/French-Vocabulary/)**
+**[https://kelvicc.github.io/French-Vocabulary/]
 
 ## ✨ 主な機能
 - **スマホ最適化 2カラムレイアウト**: 左列に見出し語・発音記号（IPA結合文字完全対応）、右列に品詞・意味・派生語・語源メモを配置。
