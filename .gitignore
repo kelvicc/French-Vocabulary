@@ -1,0 +1,8 @@
+# OS Generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Caches
+__pycache__/
+*.pyc
